@@ -1,5 +1,3 @@
-console.log('Client side java script')
-
 const weatherForm = document.querySelector('form')              // document == HTML document in the current browser window
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')         // to find an element using className, search '.className'. And for id, search '#idName'.
